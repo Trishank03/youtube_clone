@@ -1,0 +1,19 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type:none;
+    justify-content: space-between;
+    
+}
+.but1{
+    background-color: #ff0000;
+    font-weight: 700;
+    color: white;
+    border-radius: 0.5em;
+   border:1.5px solid white;
+   padding: 4px;
+}
+
+.first{
+    background-color: #000000;
+}
